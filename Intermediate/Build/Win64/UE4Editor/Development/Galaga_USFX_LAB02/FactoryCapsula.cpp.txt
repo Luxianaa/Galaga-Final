@@ -1,0 +1,17 @@
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\FactoryCapsula.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\Capsula.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\IHandleCapsules.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\IHandleCapsules.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Capsula.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\FactoryCapsula.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\CapsulaEnergia.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\CapsulaEnergia.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\CapsulaVida.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\CapsulaVida.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\CapsulaCrazy.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\CapsulaCrazy.generated.h

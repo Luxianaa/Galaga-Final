@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Galaga_USFX_LAB02-0410.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\Galaga_USFX_LAB02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\CommandTeleport.cpp.obj"
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Galaga_USFX_LAB02GameMode.cpp.obj"
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.cpp.obj"
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Module.Galaga_USFX_LAB02.cpp.obj"
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Module.Galaga_USFX_LAB02.gen.cpp.obj"
+"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Default.rc2.res"
+/OUT:"C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\UE4Editor-Galaga_USFX_LAB02-0410.lib"

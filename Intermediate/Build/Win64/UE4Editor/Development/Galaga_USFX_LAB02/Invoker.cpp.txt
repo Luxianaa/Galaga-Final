@@ -1,0 +1,5 @@
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\Invoker.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Source\Galaga_USFX_LAB02\ICommand.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ICommand.generated.h
+C:\Users\lucia\Desktop\GALAGA ACTUAL\Galaga_USFX_LAB02_New\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Invoker.generated.h
